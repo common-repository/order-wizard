@@ -1,0 +1,1 @@
+[13-Jun-2017 11:06:40 UTC] PHP Fatal error:  Using $this when not in object context in /home/orderwiz/public_html/dansplace.orderwizard.net/wp-content/plugins/orderwizard/public/class-orderwizard-public.php on line 114
